@@ -35,3 +35,11 @@ Work with bytes; format, convert.
 If you want to convert in bytes, you need to use default i18n in your code. **(not case sensitive)**
 
 * kb / mb / gb /tb
+
+
+Versions
+=========
+
+**v 0.0.2 - 2014/06/06**
+
+* If i18n not used, default i18n is restored.

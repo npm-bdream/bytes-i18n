@@ -1,7 +1,7 @@
 {
     "name": "bytes-i18n",
     "description": "Work with bytes; format, convert..",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/npm-bdream/bytes-i18n",
     "main": "./lib/app.js",
     "scripts": {
