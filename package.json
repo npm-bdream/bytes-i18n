@@ -1,0 +1,24 @@
+{
+    "name": "bytes-i18n",
+    "description": "Work with bytes; format, convert..",
+    "version": "0.0.1",
+    "homepage": "https://github.com/npm-bdream/bytes-i18n",
+    "main": "./lib/app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "bdream",
+        "email": "npm.bdream@gmail.com"
+    },
+    "keywords": [
+        "bytes",
+        "byte",
+        "i18n",
+        "convert",
+        "format"
+    ],
+    "license": "",
+    "dependencies": {
+    }
+}
